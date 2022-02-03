@@ -20,14 +20,8 @@ Do or do not, *there is no try.*
 
 Do or do not, **there is no try.**
 
-- I can't hear you
-- Speak louder
-- Then I can hear you
+*   A list item.
 
-+ I can't hear you
-+ Speak louder
-+ Then I can hear you
+    With multiple paragraphs.
 
-* I can't hear you
-* Speak louder
-* Then I can hear you
+*   Another item in the list.
