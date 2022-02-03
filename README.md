@@ -26,3 +26,5 @@ Do or do not, **there is no try.**
     With multiple paragraphs.
 
 *   Another item in the list.
+
+This is a link to [Snow College](www.snow.edu)
