@@ -19,3 +19,15 @@ More text in a pragraph
 Do or do not, *there is no try.*
 
 Do or do not, **there is no try.**
+
+- I can't hear you
+- Speak louder
+- Then I can hear you
+
++ I can't hear you
++ Speak louder
++ Then I can hear you
+
+* I can't hear you
+* Speak louder
+* Then I can hear you
