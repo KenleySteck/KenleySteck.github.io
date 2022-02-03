@@ -27,4 +27,4 @@ Do or do not, **there is no try.**
 
 *   Another item in the list.
 
-This is a link to [Snow College](www.snow.edu)
+This is a link to [Snow College](https://www.snow.edu)
